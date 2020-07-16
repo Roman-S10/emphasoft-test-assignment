@@ -1,0 +1,32 @@
+.app-header {
+    color: #e4eeff;
+    background-color: #1976d2;
+    padding: .5rem 1rem;
+    min-height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.app-header .logo{
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.logout-button {
+    display: inline-block;
+    font-weight: 400;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    cursor: pointer;
+    margin-top: .25rem;
+    margin-bottom: .25rem;
+    color: #e4eeff;
+    border-color: #e4eeff;
+}
+.logout-button:hover {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
