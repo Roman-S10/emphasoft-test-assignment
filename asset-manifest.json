@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Roman-S10/emphasoft-test-assignment/static/css/main.d501f7a6.chunk.css",
-    "main.js": "/Roman-S10/emphasoft-test-assignment/static/js/main.1b6e8228.chunk.js",
-    "main.js.map": "/Roman-S10/emphasoft-test-assignment/static/js/main.1b6e8228.chunk.js.map",
-    "runtime-main.js": "/Roman-S10/emphasoft-test-assignment/static/js/runtime-main.61023ac6.js",
-    "runtime-main.js.map": "/Roman-S10/emphasoft-test-assignment/static/js/runtime-main.61023ac6.js.map",
-    "static/js/2.3dd99f50.chunk.js": "/Roman-S10/emphasoft-test-assignment/static/js/2.3dd99f50.chunk.js",
-    "static/js/2.3dd99f50.chunk.js.map": "/Roman-S10/emphasoft-test-assignment/static/js/2.3dd99f50.chunk.js.map",
-    "index.html": "/Roman-S10/emphasoft-test-assignment/index.html",
-    "precache-manifest.7c2207ddafd1dff8e90652f58962b29e.js": "/Roman-S10/emphasoft-test-assignment/precache-manifest.7c2207ddafd1dff8e90652f58962b29e.js",
-    "service-worker.js": "/Roman-S10/emphasoft-test-assignment/service-worker.js",
-    "static/css/main.d501f7a6.chunk.css.map": "/Roman-S10/emphasoft-test-assignment/static/css/main.d501f7a6.chunk.css.map",
-    "static/js/2.3dd99f50.chunk.js.LICENSE.txt": "/Roman-S10/emphasoft-test-assignment/static/js/2.3dd99f50.chunk.js.LICENSE.txt"
+    "main.css": "/emphasoft-test-assignment/static/css/main.d501f7a6.chunk.css",
+    "main.js": "/emphasoft-test-assignment/static/js/main.1b6e8228.chunk.js",
+    "main.js.map": "/emphasoft-test-assignment/static/js/main.1b6e8228.chunk.js.map",
+    "runtime-main.js": "/emphasoft-test-assignment/static/js/runtime-main.8e43c701.js",
+    "runtime-main.js.map": "/emphasoft-test-assignment/static/js/runtime-main.8e43c701.js.map",
+    "static/js/2.3dd99f50.chunk.js": "/emphasoft-test-assignment/static/js/2.3dd99f50.chunk.js",
+    "static/js/2.3dd99f50.chunk.js.map": "/emphasoft-test-assignment/static/js/2.3dd99f50.chunk.js.map",
+    "index.html": "/emphasoft-test-assignment/index.html",
+    "precache-manifest.ef395c0956e485d43c175e6666968fb3.js": "/emphasoft-test-assignment/precache-manifest.ef395c0956e485d43c175e6666968fb3.js",
+    "service-worker.js": "/emphasoft-test-assignment/service-worker.js",
+    "static/css/main.d501f7a6.chunk.css.map": "/emphasoft-test-assignment/static/css/main.d501f7a6.chunk.css.map",
+    "static/js/2.3dd99f50.chunk.js.LICENSE.txt": "/emphasoft-test-assignment/static/js/2.3dd99f50.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.61023ac6.js",
+    "static/js/runtime-main.8e43c701.js",
     "static/js/2.3dd99f50.chunk.js",
     "static/css/main.d501f7a6.chunk.css",
     "static/js/main.1b6e8228.chunk.js"
