@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/emphasoft-test-assignment/precache-manifest.ef395c0956e485d43c175e6666968fb3.js"
+  "/emphasoft-test-assignment/precache-manifest.c5726c986eb4772b54cc4a88b6f131eb.js"
 );
 
 self.addEventListener('message', (event) => {
